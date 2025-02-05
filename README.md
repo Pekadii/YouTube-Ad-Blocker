@@ -4,6 +4,12 @@
 My YouTube Ad Blocker is a powerful ***Chrome, Opera - Opera GX*** extension designed to block intrusive ads on YouTube. It eliminates skip-able ads, non-skip-able ads, sponsor segments, and overlay ads, enhancing your YouTube viewing experience. This extension runs in the background to ensure seamless ad-free playback without requiring manual intervention.
 
 
+# Browser Support
+
+| <a href="https://www.google.com/chrome/"><img src="./logos/chrome.svg" width="42px" /><br /><span>Chrome</span></a> | <a href="https://www.microsoft.com/edge"><img src="./logos/edge.svg" width="42px" /><br /><span>Edge</span></a> | <a href="https://www.opera.com/"><img src="./logos/opera.svg" width="42px" /><br /><span>Opera</span></a> | <a href="https://www.opera.com/gx"><img src="./logos/operagx.svg" width="42px" /><br /><span>Opera GX</span></a> |
+| ---- | ---- | ---- | ---- |
+
+
 # Features
 > [!TIP]
 > - Removes skip-able and non-skip-able ads.
