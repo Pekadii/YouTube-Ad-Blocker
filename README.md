@@ -1,5 +1,13 @@
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.0-blue)
-# Pekadi's YouTube Ad Blocker
+# YouTube Ad Blocker
+
+![YT Logo](https://github.com/Pekadii/YouTube-Ad-Blocker/blob/main/Images/YT_Ad_Blocker.png)
+
+> [!IMPORTANT]
+> # Undetectability:
+> - My ad blocker avoids detection by **YouTube** because it uses **declarativeNetRequest** rules and carefully crafted filters to block ad-related resources directly at the network level. Unlike traditional ad blockers that modify content or scripts dynamically, which YouTube can detect, the blocker prevents ad-related requests from being loaded in the first place. This silent blocking approach ensures seamless integration and avoids triggering YouTube's ad-detection systems.
+
+![Bypass Logo](https://github.com/Pekadii/YouTube-Ad-Blocker/blob/main/Images/Not_detected.png)
 
 My YouTube Ad Blocker is a powerful ***Chrome, Edge, Opera - Opera GX*** extension designed to block intrusive ads on YouTube. It eliminates skip-able ads, non-skip-able ads, sponsor segments, and overlay ads, enhancing your YouTube viewing experience. This extension runs in the background to ensure seamless ad-free playback without requiring manual intervention.
 
