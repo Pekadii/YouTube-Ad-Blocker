@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.0-blue)
 # Pekadi's YouTube Ad Blocker
 
-My YouTube Ad Blocker is a powerful ***Chrome, Opera - Opera GX*** extension designed to block intrusive ads on YouTube. It eliminates skip-able ads, non-skip-able ads, sponsor segments, and overlay ads, enhancing your YouTube viewing experience. This extension runs in the background to ensure seamless ad-free playback without requiring manual intervention.
+My YouTube Ad Blocker is a powerful ***Chrome, Edge, Opera - Opera GX*** extension designed to block intrusive ads on YouTube. It eliminates skip-able ads, non-skip-able ads, sponsor segments, and overlay ads, enhancing your YouTube viewing experience. This extension runs in the background to ensure seamless ad-free playback without requiring manual intervention.
 
 
 # Browser Support
