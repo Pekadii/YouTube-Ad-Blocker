@@ -29,6 +29,7 @@ My YouTube Ad Blocker is a powerful ***Chrome, Opera - Opera GX*** extension des
 > 3. Go to `chrome://extensions/` or `opera://extensions/`.
 > 4. Enable **Developer mode** (toggle in the top-right corner).
 > 5. Click **Load unpacked** and select the downloaded folder containing the extension files.
+> 6. For any reason a ad does pop up just click CLt + R!
 
 ## How It Works
 The extension uses:
