@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.6-blue) ![Development](https://img.shields.io/badge/Development-2.0.6-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.7-blue) ![Development](https://img.shields.io/badge/Development-2.0.7-blue.svg)
 # YouTube Ad Blocker
 
 ![YT Logo](https://github.com/Pekadii/YouTube-Ad-Blocker/blob/main/Images/YT_Ad_Blocker.png)
