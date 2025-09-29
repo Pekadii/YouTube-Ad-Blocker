@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.7-blue) ![Development](https://img.shields.io/badge/Development-2.0.7-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.0.9-blue) ![Development](https://img.shields.io/badge/Development-2.0.9-blue.svg)
 # YouTube Ad Blocker
 
 ![YT Logo](https://github.com/Pekadii/YouTube-Ad-Blocker/blob/main/Images/YT_Ad_Blocker.png)
@@ -51,3 +51,4 @@ Feel free to contribute to this project by opening an issue or submitting a pull
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
